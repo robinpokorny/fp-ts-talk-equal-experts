@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fp-ts": "^1.15.0"
   },
   "devDependencies": {
